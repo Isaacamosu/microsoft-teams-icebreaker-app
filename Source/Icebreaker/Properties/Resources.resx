@@ -150,7 +150,24 @@
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>Hi there again, Isaac here with {0} in {1}. A bot that pairs you with a new coworker to meet each week. This week your match is {2}.</value>
+    <value>Hi there again, Isaac here with {0} in {1}. A bot that pairs you with a new coworker to meet each week. This week your match is {2}.
+    This month is Examine your Assumptions. 
+
+ 
+
+Examining assumptions offers us the opportunity to understand people and situations more fully and look beyond initial biases.
+
+ 
+
+Some thoughts to get the conversation going ...
+
+ 
+
+
+	
+Ask yourself what assumptions you have made
+	Do you know that they are true?
+	How could you find out?</value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
