@@ -151,8 +151,9 @@
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
 	  
-    <value>Hi there again, Isaac here with {0} in {1}. A bot that pairs you with a new coworker to meet each week. This week your match is {2}.
-    This month is Examine your Assumptions. 
+    <value>Hi there again, This month is Examine your Assumptions.This month your match is {2}.
+    
+
 
 Examining assumptions offers us the opportunity to understand people and situations more fully and look beyond initial biases.
 	    
