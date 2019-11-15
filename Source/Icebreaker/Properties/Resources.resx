@@ -151,7 +151,8 @@
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
 	  
-    <value>Hi there again, This month is **Examine your Assumptions**.This month your match is {2}.
+    <value>Hi there again, This month is **Examine your Assumptions**.
+This month your match is {2}.
  
     
 
@@ -163,7 +164,7 @@ Some thoughts to get the conversation going ...
 
 Ask yourself:
 
-	  **what assumptions you have made**
+	  **what assumptions you have made?**
 	    
 	    **Do you know that they are true?**
 	
