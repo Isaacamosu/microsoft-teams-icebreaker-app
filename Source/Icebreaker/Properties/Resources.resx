@@ -151,7 +151,7 @@
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
 	  
-    <value>Hi there again, This month is **Make a habit of asking questions**.
+    <value>Hi there again, This month is **ensuring all voices are heard**.
 This month your match is {2}.
  
     
@@ -164,11 +164,11 @@ Some thoughts to get the conversation going ...
 
 Ask yourself:
 
-	  **what questions have you asked?**
+	  **Ask yourself do you allow for all voices in the room to be heard?**
 	    
-	    **Did you get the answer you were looking for or learn something new?**
+	    **Did you allow for your voice to be heard?**
 	
-	**How could you continue to ask questions?**</value>
+	**How can you bring all voices into meetings and conversations?**</value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
